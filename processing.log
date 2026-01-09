@@ -1,0 +1,12 @@
+/Users/jiangshengyu/Library/Python/3.9/lib/python/site-packages/torch/cuda/__init__.py:63: FutureWarning: The pynvml package is deprecated. Please install nvidia-ml-py instead. If you did not install pynvml directly, please report this to the maintainers of the package that installed pynvml for you.
+  import pynvml  # type: ignore[import]
+/Users/jiangshengyu/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+`torch_dtype` is deprecated! Use `dtype` instead!
+======================================================================
+GSM8K 知识图谱生成器 - Qwen2.5-7B-Instruct
+======================================================================
+✓ 使用 MPS (Apple Silicon)
+
+📦 加载模型: Qwen/Qwen2.5-7B-Instruct
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]
